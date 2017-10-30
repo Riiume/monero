@@ -1,5 +1,5 @@
 # Monero y-Multisig
-## (Unofficial)
+## (Unofficial Wallet)
 
 Copyright (c) 2014-2017, The Monero Project
 Portions Copyright (c) 2012-2013, The Cryptonote developers
