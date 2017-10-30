@@ -3,6 +3,10 @@
 Copyright (c) 2014-2017, The Monero Project
 Portions Copyright (c) 2012-2013, The Cryptonote developers
 
+## Using Multisig
+
+Instructions: https://monero.stackexchange.com/questions/5646/how-to-use-monero-2-2-multisignature-wallets/5647#5647
+
 ## Development Resources
 
 - Web: [getmonero.org](https://getmonero.org)
